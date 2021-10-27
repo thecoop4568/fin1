@@ -124,14 +124,14 @@ table {
 }
 
 @font-face {
-  font-family: 'Slackey-Regular';
-  src: local("Slackey-Regular"),
-    url(../assets/fonts/Slackey-Regular.ttf) format("ttf");
+  font-family: 'Montserrat-Bold';
+  src: local("Montserrat-Bold"),
+    url(../assets/fonts/Montserrat-Bold.ttf) format("ttf");
 }
 
 body {
   margin: 0;
-  font-family: "Slackey-Regular";
+  font-family: "Montserrat-Bold";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
